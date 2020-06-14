@@ -1,0 +1,36 @@
+
+#header-nav{
+  background-color:gainsboro;
+  border-radius: 0;
+  height: auto;
+}
+p {
+	padding: 10px;
+	margin: 0;
+    font-size: 40px;
+    
+}
+
+.container {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+h2{
+    text-align: center;
+}
+#chi,#bee,#sus{
+    width: 98%;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: gainsboro;
+    margin: 15px;
+    
+}
+.item{
+    font-size: 25px;
+}
+
